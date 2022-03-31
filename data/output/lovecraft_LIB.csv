@@ -1,0 +1,110 @@
+title,filepath,date,category
+the alchemist,data/short_stories\alchemist.txt,1908,short story
+facts concerning the late arthur jermyn and his family,data/short_stories\arthur_jermyn.txt,1920,short story
+azathoth,data/short_stories\azathoth.txt,1922,short story
+the beast in the cave,data/short_stories\beast.txt,1905,short story
+beyond the wall of sleep,data/short_stories\beyond_wall_of_sleep.txt,1919,short story
+the book,data/short_stories\book.txt,1933,short story
+celephais,data/short_stories\celephais.txt,1920,short story
+the case of charles dexter ward,data/short_stories\charles_dexter_ward.txt,1927,short story
+the evil clergyman,data/short_stories\clergyman.txt,1933,short story
+the colour out of space,data/short_stories\colour_out_of_space.txt,1927,short story
+cool air,data/short_stories\cool_air.txt,1926,short story
+the crawling chaos,data/short_stories\crawling_chaos.txt,1921,short story
+the call of cthulhu,data/short_stories\cthulhu.txt,1926,short story
+dagon,data/short_stories\dagon.txt,1917,short story
+the descendant,data/short_stories\descendent.txt,1926,short story
+the thing on the doorstep,data/short_stories\doorstep.txt,1933,short story
+the dreams in the witch house,data/short_stories\dreams_in_the_witch.txt,1932,short story
+the dunwich horror,data/short_stories\dunwich.txt,1928,short story
+the music of erich zann,data/short_stories\erich_zann.txt,1921,short story
+ex oblivione,data/short_stories\ex_oblivione.txt,1921,short story
+the festival,data/short_stories\festival.txt,1923,short story
+from beyond,data/short_stories\from_beyond.txt,1920,short story
+through the gates of the silver key,data/short_stories\gates_of_silver_key.txt,1933,short story
+the haunter of the dark,data/short_stories\haunter.txt,1935,short story
+he,data/short_stories\he.txt,1925,short story
+the strange high house in the mist,data/short_stories\high_house_mist.txt,1926,short story
+the hound,data/short_stories\hound.txt,1922,short story
+hypnos,data/short_stories\hypnos.txt,1922,short story
+the shadow over innsmouth,data/short_stories\innsmouth.txt,1931,short story
+the quest of iranon,data/short_stories\iranon.txt,1921,short story
+the transition of juan romero,data/short_stories\juan_romero.txt,1919,short story
+the dream-quest of unknown kadath,data/short_stories\kadath.txt,1927,short story
+the lurking fear,data/short_stories\lurking_fear.txt,1922,short story
+the horror at martin's beach,data/short_stories\martins_beach.txt,1922,short story
+medusa's coil,data/short_stories\medusas_coil.txt,1930,short story
+memory,data/short_stories\memory.txt,1919,short story
+the moon-bog,data/short_stories\moon_bog.txt,1921,short story
+at the mountains of madness,data/short_stories\mountains_of_madness.txt,1931,short story
+the nameless city,data/short_stories\nameless.txt,1921,short story
+nyarlathotep,data/short_stories\nyarlathotep.txt,1920,short story
+the very old folk,data/short_stories\old_folk.txt,1927,short story
+the other gods,data/short_stories\other_gods.txt,1921,short story
+the outsider,data/short_stories\outsider.txt,1921,short story
+imprisoned with the pharaohs,data/short_stories\pharoahs.txt,1924,short story
+pickman's model,data/short_stories\pickman.txt,1926,short story
+the picture in the house,data/short_stories\picture_house.txt,1920,short story
+poetry and the gods,data/short_stories\poetry_of_gods.txt,1920,short story
+polaris,data/short_stories\polaris.txt,1918,short story
+the statement of randolph carter,data/short_stories\randolph_carter.txt,1919,short story
+the rats in the walls,data/short_stories\rats_walls.txt,1923,short story
+herbert west: reanimator,data/short_stories\reanimator.txt,1922,short story
+the horror at red hook,data/short_stories\redhook.txt,1925,short story
+the doom that came to sarnath,data/short_stories\sarnath.txt,1919,short story
+the shadow out of time,data/short_stories\shadow_out_of_time.txt,1934,short story
+the shunned house,data/short_stories\shunned_house.txt,1924,short story
+the silver key,data/short_stories\silver_key.txt,1926,short story
+the street,data/short_stories\street.txt,1920,short story
+the temple,data/short_stories\temple.txt,1920,short story
+the terrible old man,data/short_stories\terrible_old_man.txt,1920,short story
+the tomb,data/short_stories\tomb.txt,1917,short story
+the tree,data/short_stories\tree.txt,1920,short story
+the cats of ulthar,data/short_stories\ulthar.txt,1920,short story
+the unnamable,data/short_stories\unnamable.txt,1923,short story
+in the vault,data/short_stories\vault.txt,1925,short story
+what the moon brings,data/short_stories\what_moon_brings.txt,1922,short story
+the whisperer in darkness,data/short_stories\whisperer.txt,1930,short story
+the white ship,data/short_stories\white_ship.txt,1919,short story
+a garden,,1917,poem
+an american to mother england,,1916,poem
+arcadia,,1935,poem
+astrophobos,,1917,poem
+christmas,,1920,poem
+dead passion's flame,,1935,poem
+despair,,1919,poem
+fact and fancy,,1917,poem
+festival,,1925,poem
+fungi from yuggoth,,1930,poem
+hallowe'en in a suburb,,1926,poem
+in a sequester’d providence churchyard where once poe walk’d,,1936,poem
+laeta; a lament,,1918,poem
+life’s mystery,,N.D,poem
+lines on gen. robert edward lee,,1916,poem
+nathicana,,1927,poem
+nemesis,,1917,poem
+"ode for july fourth, 1917",,1917,poem
+on reading lord dunsany’s book of wonder,,1920,poem
+on receiving a picture of swans,,1915,poem
+pacifist war song—1917,,1917,poem
+"poemata minora, volume ii",,1902,poem
+providence,,1912,poem
+psychopompos,,1918,poem
+revelation,,1919,poem
+sunset,,1917,poem
+the ancient track,,1929,poem
+the cats,,1925,poem
+the city,,1919,poem
+the conscript,,1918,poem
+the house,,1919,poem
+the messenger,,1929,poem
+the nightmare lake,,1919,poem
+the outpost,,1929,poem
+the peace advocate,,1917,poem
+the poe-et’s nightmare,,1916,poem
+the rose of england,,1916,poem
+the wood,,1929,poem
+"to clark ashton smith, esq., upon his phantastick tales, verses, pictures, and sculptures",,1936,poem
+"to edward john moreton drax plunkett, eighteenth baron dunsany",,1919,poem
+"unda; or, the bride of the sea",,1915,poem
+waste paper a poem of profound insignificance,,1923,poem
