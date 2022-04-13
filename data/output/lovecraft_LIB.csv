@@ -66,45 +66,45 @@ in the vault,data/short_stories\vault.txt,1925,short story
 what the moon brings,data/short_stories\what_moon_brings.txt,1922,short story
 the whisperer in darkness,data/short_stories\whisperer.txt,1930,short story
 the white ship,data/short_stories\white_ship.txt,1919,short story
-a garden,,1917,poem
-an american to mother england,,1916,poem
-arcadia,,1935,poem
-astrophobos,,1917,poem
-christmas,,1920,poem
-dead passion's flame,,1935,poem
-despair,,1919,poem
-fact and fancy,,1917,poem
-festival,,1925,poem
-fungi from yuggoth,,1930,poem
-hallowe'en in a suburb,,1926,poem
-in a sequester’d providence churchyard where once poe walk’d,,1936,poem
-laeta; a lament,,1918,poem
-life’s mystery,,N.D,poem
-lines on gen. robert edward lee,,1916,poem
-nathicana,,1927,poem
-nemesis,,1917,poem
-"ode for july fourth, 1917",,1917,poem
-on reading lord dunsany’s book of wonder,,1920,poem
-on receiving a picture of swans,,1915,poem
-pacifist war song—1917,,1917,poem
-"poemata minora, volume ii",,1902,poem
-providence,,1912,poem
-psychopompos,,1918,poem
-revelation,,1919,poem
-sunset,,1917,poem
-the ancient track,,1929,poem
-the cats,,1925,poem
-the city,,1919,poem
-the conscript,,1918,poem
-the house,,1919,poem
-the messenger,,1929,poem
-the nightmare lake,,1919,poem
-the outpost,,1929,poem
-the peace advocate,,1917,poem
-the poe-et’s nightmare,,1916,poem
-the rose of england,,1916,poem
-the wood,,1929,poem
-"to clark ashton smith, esq., upon his phantastick tales, verses, pictures, and sculptures",,1936,poem
-"to edward john moreton drax plunkett, eighteenth baron dunsany",,1919,poem
-"unda; or, the bride of the sea",,1915,poem
-waste paper a poem of profound insignificance,,1923,poem
+a garden,data/poetry\A Garden.txt,1917,poem
+an american to mother england,data/poetry\An American to Mother England.txt,1916,poem
+arcadia,data/poetry\Arcadia.txt,1935,poem
+astrophobos,data/poetry\Astrophobos.txt,1917,poem
+christmas,data/poetry\Christmas.txt,1920,poem
+dead passion's flame,data/poetry\Dead Passion's Flame.txt,1935,poem
+despair,data/poetry\Despair.txt,1919,poem
+fact and fancy,data/poetry\Fact and Fancy.txt,1917,poem
+festival,data/poetry\Festival.txt,1925,poem
+fungi from yuggoth,data/poetry\Fungi from Yuggoth.txt,1930,poem
+hallowe'en in a suburb,data/poetry\Hallowe'en in a Suburb.txt,1926,poem
+in a sequester’d providence churchyard where once poe walk’d,data/poetry\In a Sequester’d Providence Churchyard Where Once Poe Walk’d.txt,1936,poem
+laeta; a lament,data/poetry\Laeta; a Lament.txt,1918,poem
+life’s mystery,data/poetry\Life's Mystery.txt,N.D,poem
+lines on gen. robert edward lee,data/poetry\Lines on Gen. Robert Edward Lee.txt,1916,poem
+nathicana,data/poetry\Nathicana.txt,1927,poem
+nemesis,data/poetry\Nemesis.txt,1917,poem
+"ode for july fourth, 1917","data/poetry\Ode for July Fourth, 1917.txt",1917,poem
+on reading lord dunsany’s book of wonder,data/poetry\On Reading Lord Dunsany’s Book of Wonder.txt,1920,poem
+on receiving a picture of swans,data/poetry\On Receiving a Picture of Swans.txt,1915,poem
+pacifist war song—1917,data/poetry\Pacifist War Song—1917.txt,1917,poem
+"poemata minora, volume ii","data/poetry\Poemata Minora, Volume II.txt",1902,poem
+providence,data/poetry\Providence.txt,1912,poem
+psychopompos,data/poetry\Psychopompos A Tale in Rhyme.txt,1918,poem
+revelation,data/poetry\Revelation.txt,1919,poem
+sunset,data/poetry\Sunset.txt,1917,poem
+the ancient track,data/poetry\The Ancient Track.txt,1929,poem
+the cats,data/poetry\The Cats.txt,1925,poem
+the city,data/poetry\The City.txt,1919,poem
+the conscript,data/poetry\The Conscript.txt,1918,poem
+the house,data/poetry\The House.txt,1919,poem
+the messenger,data/poetry\The Messenger.txt,1929,poem
+the nightmare lake,data/poetry\The Nightmare Lake.txt,1919,poem
+the outpost,data/poetry\The Outpost.txt,1929,poem
+the peace advocate,data/poetry\The Peace Advocate.txt,1917,poem
+the poe-et’s nightmare,data/poetry\The Poe-et’s Nightmare.txt,1916,poem
+the rose of england,data/poetry\The Rose of England.txt,1916,poem
+the wood,data/poetry\The Wood.txt,1929,poem
+"to clark ashton smith, esq., upon his phantastick tales, verses, pictures, and sculptures","data/poetry\To Clark Ashton Smith, Esq., upon His Phantastick Tales, Verses, Pictures, and Sculptures.txt",1936,poem
+"to edward john moreton drax plunkett, eighteenth baron dunsany","data/poetry\To Edward John Moreton Drax Plunkett, Eighteenth Baron Dunsany.txt",1919,poem
+"unda; or, the bride of the sea","data/poetry\Unda; or, The Bride of the Sea.txt",1915,poem
+waste paper a poem of profound insignificance,data/poetry\Waste Paper.txt,1923,poem
